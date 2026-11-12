@@ -1,0 +1,22 @@
+{
+  "wheel_id": 877,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-154",
+  "project": "retaining-wall-contractors-gold-coast-80e19e1d1364f9228273e963d",
+  "parent_t1_ref": "retainingwallgoldcoast-010",
+  "node_role": "buffer",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining wall contractors gold coast",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-contractors-gold-coast-80e19e1d1364f9228273e963d/",
+  "tier": "T2",
+  "writeback_nonce": "069c8bc1d2554149",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-contractors-gold-coast/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
